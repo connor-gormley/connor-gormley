@@ -19,7 +19,7 @@ I specialize in Java, C#, and Full-Stack Development, with a focus on building p
 
 ## 🏆 Featured Project
 
-### 💰 [Personal Finance Tracker (FinancePro)](https://github.com/connor-gormley/tracker)
+### 💰 [Personal Finance Tracker (FinancePro)](https://github.com/connor-gormley/finance-tracker)
 *A full-stack persistent banking application built with Spring Boot.*
 
 I built this project to master the **Spring MVC** architecture and **Data Persistence**.
@@ -28,7 +28,7 @@ I built this project to master the **Spring MVC** architecture and **Data Persis
 * **Frontend:** Thymeleaf & Bootstrap 5 with Chart.js visualization.
 * **Logic:** Custom algorithms for calculating net worth and categorizing transactions.
 
-[**View Source Code »**](https://github.com/connor-gormley/tracker)
+[**View Source Code »**](https://github.com/connor-gormley/finance-tracker)
 
 ---
 
