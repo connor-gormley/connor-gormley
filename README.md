@@ -50,4 +50,4 @@ I built this project to master the **Spring MVC** architecture and **Data Persis
 
 ### 📫 Connect with Me
 * 📧 [connor.gormley2@gmail.com](mailto:connor.gormley2@gmail.com)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/connor-gormley-168849243/)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/connor-gormley/)
