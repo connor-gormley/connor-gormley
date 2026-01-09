@@ -1,16 +1,19 @@
 # Hi, I'm Connor Gormley! 👋
 
 I'm a **Software Engineering Student** at **Queen's University Belfast** (2nd Year).
-I specialize in Java, C#, and Full-Stack Development, with a focus on building persistent, data-driven applications.
+I specialize in **Java, C#, C++**, and **Full-Stack Development**, with a focus on building persistent, data-driven applications.
 
 ## 🚀 About Me
 - 🎓 **Education:** BEng Software Engineering (Current 2:1).
-- 💻 **Tech Stack:** Java (Spring Boot), C#, Python, SQL.
+- 💻 **Tech Stack:** Java (Spring Boot), C#, C++, Python, SQL.
 - 🎯 **Goal:** Seeking a **Placement Year** role to apply my backend and database skills in a real-world environment.
 
 ## 🛠️ Technical Skills
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
